@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/glitch/Projects/Pixels/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

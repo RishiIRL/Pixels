@@ -1,0 +1,3 @@
+/home/glitch/Projects/Pixels/build/CMakeFiles/pixels.dir
+/home/glitch/Projects/Pixels/build/CMakeFiles/edit_cache.dir
+/home/glitch/Projects/Pixels/build/CMakeFiles/rebuild_cache.dir
